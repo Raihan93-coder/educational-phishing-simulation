@@ -1,5 +1,5 @@
 #This is code is used to modify the html script that is obtained from the webpage_clone.sh program
-#This code uses Beautifulsoup which is a pythn library that manipulate html and xml file
+#This code uses Beautifulsoup which is a python library that manipulate html and xml file
 
 from bs4 import BeautifulSoup
 
