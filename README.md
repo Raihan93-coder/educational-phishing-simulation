@@ -38,3 +38,4 @@ The backend logs submitted credentials for demonstration purposes only.
    ```bash
    ./webpage_clone.sh https://example.com/login
 
+index.html and creds.log have been excluded intentionally for ethical and privacy reasons. This project is meant solely for educational simulation and awareness of social engineering tactics.
